@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Area Calculator</string>
+    <string name="circle">Circle</string>
+    <string name="ellipse">Ellipse</string>
+    <string name="rectangle">Rectangle</string>
+    <string name="square">Square</string>
+    <string name="trapezium">Trapezium</string>
+    <string name="select_figure_to_begin_your_fascinating_calculation">Select figure to begin your fascinating calculation</string>
+</resources>
